@@ -1,17 +1,17 @@
 ﻿# Git Basics #
 
 ในบทนี้มีเนื้อหาเกี่ยวกับ ชุดคำสั่งพื้นฐาน หลักๆ ของ Git ที่ใช้กันประจำไม่ว่าช่วงเช้าหรือช่วงเย็น  และยังรวมไปถึง
-- การปรับแต่งและการสร้าง repository
-- การ tracking หรือติดตามสถานะต่างๆ ของ files รวมทั้งการ commit การเปลี่ยนแปลงต่างๆ
-- การยกเลิกการทำงานที่ผิดพลาด
-- การดูประวัติย้อนหลังของ project และการเปลี่ยนแปลงต่างๆ
-- การ push และ pull จาก remote repository 
+	การปรับแต่งและการสร้าง repository
+	การ tracking หรือติดตามสถานะต่างๆ ของ files รวมทั้งการ commit การเปลี่ยนแปลงต่างๆ
+	การยกเลิกการทำงานที่ผิดพลาด
+	การดูประวัติย้อนหลังของ project และการเปลี่ยนแปลงต่างๆ
+	การ push และ pull จาก remote repository 
 
 ## Getting a Git Repository ##
 
 การใช้งาน Git ใน project มีอยู่ 2 ลักษณะ คือ
-- สร้าง repository ใหม่จาก project ของเรา
-- Clone จาก Git repository ที่มีอยู่แล้ว
+	สร้าง repository ใหม่จาก project ของเรา
+	Clone จาก Git repository ที่มีอยู่แล้ว
 
 ### Initializing a Repository in an Existing Directory ###
 
