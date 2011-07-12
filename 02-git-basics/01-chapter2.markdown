@@ -1,10 +1,17 @@
-# Git Basics #
+﻿# Git Basics #
 
-If you can read only one chapter to get going with Git, this is it. This chapter covers every basic command you need to do the vast majority of the things you’ll eventually spend your time doing with Git. By the end of the chapter, you should be able to configure and initialize a repository, begin and stop tracking files, and stage and commit changes. We’ll also show you how to set up Git to ignore certain files and file patterns, how to undo mistakes quickly and easily, how to browse the history of your project and view changes between commits, and how to push and pull from remote repositories.
+ในบทนี้มีเนื้อหาเกี่ยวกับ ชุดคำสั่งพื้นฐาน หลักๆ ของ Git ที่ใช้กันประจำไม่ว่าช่วงเช้าหรือช่วงเย็น  และยังรวมไปถึง
+- การปรับแต่งและการสร้าง repository
+- การ tracking หรือติดตามสถานะต่างๆ ของ files รวมทั้งการ commit การเปลี่ยนแปลงต่างๆ
+- การยกเลิกการทำงานที่ผิดพลาด
+- การดูประวัติย้อนหลังของ project และการเปลี่ยนแปลงต่างๆ
+- การ push และ pull จาก remote repository 
 
 ## Getting a Git Repository ##
 
-You can get a Git project using two main approaches. The first takes an existing project or directory and imports it into Git. The second clones an existing Git repository from another server.
+การใช้งาน Git ใน project มีอยู่ 2 ลักษณะ คือ
+- สร้าง repository ใหม่จาก project ของเรา
+- Clone จาก Git repository ที่มีอยู่แล้ว
 
 ### Initializing a Repository in an Existing Directory ###
 
